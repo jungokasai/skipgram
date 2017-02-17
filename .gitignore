@@ -1,0 +1,8 @@
+glovevector/*
+*.pyc
+*~
+train_x.csv
+train_y.csv
+vectors.txt
+vocabs.txt
+
